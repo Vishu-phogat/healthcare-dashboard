@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #3f8efc;
+  }
+  
+  .searchContainer {
+    display: flex;
+    align-items: center;
+    background-color: #f0f2f5;
+    border-radius: 8px;
+    padding: 0.4rem;
+    flex: 1;
+    margin: 0 1rem;
+  }
+  
+  .searchInput {
+    border: none;
+    background: transparent;
+    outline: none;
+    padding-left: 0.5rem;
+    width: 100%;
+  }
+  
+  .icon {
+    color: #999;
+    margin: 0 0.5rem;
+  }
+  
+  .profile {
+    margin-left: 1rem;
+    font-weight: 500;
+  }
+  
+  .addBtn {
+    background-color: #3f8efc;
+    color: white;
+    border-radius: 50%;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    cursor: default;
+  }
+  

@@ -1,0 +1,25 @@
+.activity {
+    background-color: white;
+    border-radius: 16px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  
+  p {
+    margin-bottom: 1rem;
+    color: #666;
+  }
+  
+  .bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 0.5rem;
+    height: 120px;
+  }
+  
+  .bar {
+    width: 14px;
+    background-color: #0056d2;
+    border-radius: 4px;
+  }
+  

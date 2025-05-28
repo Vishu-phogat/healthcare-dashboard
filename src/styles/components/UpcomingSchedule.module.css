@@ -1,0 +1,18 @@
+.schedule {
+    background-color: white;
+    border-radius: 16px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  h4 {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #888;
+  }
+  
